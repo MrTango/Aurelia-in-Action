@@ -1,4 +1,4 @@
-import {bindable, inject, computedFrom} from 'aurelia-framework';
+import {inject, computedFrom} from 'aurelia-framework';
 import {BookApi} from '../../services/book-api';
 import {EventAggregator} from 'aurelia-event-aggregator';
 
